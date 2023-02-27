@@ -1,0 +1,6 @@
+target/
+bin/
+node-modules/
+.db
+.log
+.txt
